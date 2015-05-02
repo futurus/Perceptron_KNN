@@ -1,0 +1,2027 @@
+/usr/bin/python /Users/vunguyen/perceptron_knn/knn_digit_v0.py
+data import completed
+Elapsed time is 22.8702280521 seconds.
+instance: 0
+Elapsed time is 29.176872015 seconds.
+instance: 1
+Elapsed time is 35.5995879173 seconds.
+instance: 2
+Elapsed time is 42.0211958885 seconds.
+instance: 3
+Elapsed time is 48.237210989 seconds.
+instance: 4
+Elapsed time is 54.5080099106 seconds.
+instance: 5
+Elapsed time is 60.8237679005 seconds.
+instance: 6
+Elapsed time is 67.2309648991 seconds.
+instance: 7
+Elapsed time is 73.9185490608 seconds.
+instance: 8
+Elapsed time is 81.1462979317 seconds.
+instance: 9
+Elapsed time is 88.5149219036 seconds.
+instance: 10
+Elapsed time is 95.4338231087 seconds.
+instance: 11
+Elapsed time is 101.969445944 seconds.
+instance: 12
+Elapsed time is 108.878286123 seconds.
+instance: 13
+Elapsed time is 116.1489501 seconds.
+instance: 14
+Elapsed time is 123.016263008 seconds.
+instance: 15
+Elapsed time is 129.406673908 seconds.
+instance: 16
+Elapsed time is 135.792120934 seconds.
+instance: 17
+Elapsed time is 142.234704018 seconds.
+instance: 18
+Elapsed time is 148.686342955 seconds.
+instance: 19
+Elapsed time is 155.107835054 seconds.
+instance: 20
+Elapsed time is 161.399918079 seconds.
+instance: 21
+Elapsed time is 167.74388504 seconds.
+instance: 22
+Elapsed time is 174.392662048 seconds.
+instance: 23
+Elapsed time is 180.651304007 seconds.
+instance: 24
+Elapsed time is 186.943223 seconds.
+instance: 25
+Elapsed time is 193.31982708 seconds.
+instance: 26
+Elapsed time is 200.201760054 seconds.
+instance: 27
+Elapsed time is 206.822216034 seconds.
+instance: 28
+Elapsed time is 213.473323107 seconds.
+instance: 29
+Elapsed time is 220.276808977 seconds.
+instance: 30
+Elapsed time is 227.280422926 seconds.
+instance: 31
+Elapsed time is 234.422754049 seconds.
+instance: 32
+Elapsed time is 241.38329792 seconds.
+instance: 33
+Elapsed time is 248.421164036 seconds.
+instance: 34
+Elapsed time is 255.606656075 seconds.
+instance: 35
+Elapsed time is 262.696947098 seconds.
+instance: 36
+Elapsed time is 269.666538 seconds.
+instance: 37
+Elapsed time is 276.673549891 seconds.
+instance: 38
+Elapsed time is 283.798785925 seconds.
+instance: 39
+Elapsed time is 290.840506077 seconds.
+instance: 40
+Elapsed time is 297.947384119 seconds.
+instance: 41
+Elapsed time is 304.960438013 seconds.
+instance: 42
+Elapsed time is 312.146716118 seconds.
+instance: 43
+Elapsed time is 319.463907957 seconds.
+instance: 44
+Elapsed time is 326.618505001 seconds.
+instance: 45
+Elapsed time is 333.889837027 seconds.
+instance: 46
+Elapsed time is 340.977598906 seconds.
+instance: 47
+Elapsed time is 347.800792933 seconds.
+instance: 48
+Elapsed time is 354.629899979 seconds.
+instance: 49
+Elapsed time is 361.644609928 seconds.
+instance: 50
+Elapsed time is 368.557718992 seconds.
+instance: 51
+Elapsed time is 374.891438961 seconds.
+instance: 52
+Elapsed time is 381.227934122 seconds.
+instance: 53
+Elapsed time is 387.527260065 seconds.
+instance: 54
+Elapsed time is 393.878006935 seconds.
+instance: 55
+Elapsed time is 400.716964006 seconds.
+instance: 56
+Elapsed time is 407.780783892 seconds.
+instance: 57
+Elapsed time is 414.747066021 seconds.
+instance: 58
+Elapsed time is 421.576416016 seconds.
+instance: 59
+Elapsed time is 428.190340042 seconds.
+instance: 60
+Elapsed time is 435.155057907 seconds.
+instance: 61
+Elapsed time is 442.160288095 seconds.
+instance: 62
+Elapsed time is 449.258804083 seconds.
+instance: 63
+Elapsed time is 456.41720295 seconds.
+instance: 64
+Elapsed time is 463.576399088 seconds.
+instance: 65
+Elapsed time is 470.804286957 seconds.
+instance: 66
+Elapsed time is 477.580998898 seconds.
+instance: 67
+Elapsed time is 484.629444122 seconds.
+instance: 68
+Elapsed time is 491.084423065 seconds.
+instance: 69
+Elapsed time is 497.44491291 seconds.
+instance: 70
+Elapsed time is 503.959831953 seconds.
+instance: 71
+Elapsed time is 511.159061909 seconds.
+instance: 72
+Elapsed time is 518.308672905 seconds.
+instance: 73
+Elapsed time is 525.425193071 seconds.
+instance: 74
+Elapsed time is 531.89923811 seconds.
+instance: 75
+Elapsed time is 538.272423983 seconds.
+instance: 76
+Elapsed time is 544.625350952 seconds.
+instance: 77
+Elapsed time is 550.976279974 seconds.
+instance: 78
+Elapsed time is 557.393100023 seconds.
+instance: 79
+Elapsed time is 564.088714123 seconds.
+instance: 80
+Elapsed time is 571.132658958 seconds.
+instance: 81
+Elapsed time is 577.839678049 seconds.
+instance: 82
+Elapsed time is 584.225492954 seconds.
+instance: 83
+Elapsed time is 590.553323984 seconds.
+instance: 84
+Elapsed time is 596.906461 seconds.
+instance: 85
+Elapsed time is 603.612488985 seconds.
+instance: 86
+Elapsed time is 610.673082113 seconds.
+instance: 87
+Elapsed time is 617.633919001 seconds.
+instance: 88
+Elapsed time is 624.088160038 seconds.
+instance: 89
+Elapsed time is 630.67869401 seconds.
+instance: 90
+Elapsed time is 637.306087017 seconds.
+instance: 91
+Elapsed time is 644.123688936 seconds.
+instance: 92
+Elapsed time is 650.515183926 seconds.
+instance: 93
+Elapsed time is 656.916574001 seconds.
+instance: 94
+Elapsed time is 663.794917107 seconds.
+instance: 95
+Elapsed time is 670.921746016 seconds.
+instance: 96
+Elapsed time is 677.342402935 seconds.
+instance: 97
+Elapsed time is 683.706253052 seconds.
+instance: 98
+Elapsed time is 690.133110046 seconds.
+instance: 99
+Elapsed time is 696.62500596 seconds.
+instance: 100
+Elapsed time is 702.977530003 seconds.
+instance: 101
+Elapsed time is 709.795865059 seconds.
+instance: 102
+Elapsed time is 716.972083092 seconds.
+instance: 103
+Elapsed time is 723.641083002 seconds.
+instance: 104
+Elapsed time is 730.518589973 seconds.
+instance: 105
+Elapsed time is 737.226830959 seconds.
+instance: 106
+Elapsed time is 744.079766989 seconds.
+instance: 107
+Elapsed time is 750.277704954 seconds.
+instance: 108
+Elapsed time is 756.553910971 seconds.
+instance: 109
+Elapsed time is 762.8837111 seconds.
+instance: 110
+Elapsed time is 769.359932899 seconds.
+instance: 111
+Elapsed time is 775.735380888 seconds.
+instance: 112
+Elapsed time is 782.094928026 seconds.
+instance: 113
+Elapsed time is 788.532762051 seconds.
+instance: 114
+Elapsed time is 794.782570124 seconds.
+instance: 115
+Elapsed time is 801.147121906 seconds.
+instance: 116
+Elapsed time is 807.426990986 seconds.
+instance: 117
+Elapsed time is 813.776443005 seconds.
+instance: 118
+Elapsed time is 820.780853033 seconds.
+instance: 119
+Elapsed time is 827.937319994 seconds.
+instance: 120
+Elapsed time is 835.09732604 seconds.
+instance: 121
+Elapsed time is 842.28865695 seconds.
+instance: 122
+Elapsed time is 849.422996044 seconds.
+instance: 123
+Elapsed time is 855.794718027 seconds.
+instance: 124
+Elapsed time is 862.195457935 seconds.
+instance: 125
+Elapsed time is 868.741998911 seconds.
+instance: 126
+Elapsed time is 875.331717968 seconds.
+instance: 127
+Elapsed time is 882.631242037 seconds.
+instance: 128
+Elapsed time is 889.811430931 seconds.
+instance: 129
+Elapsed time is 897.046766996 seconds.
+instance: 130
+Elapsed time is 904.239054918 seconds.
+instance: 131
+Elapsed time is 911.155986071 seconds.
+instance: 132
+Elapsed time is 918.291661978 seconds.
+instance: 133
+Elapsed time is 925.189369917 seconds.
+instance: 134
+Elapsed time is 931.475332975 seconds.
+instance: 135
+Elapsed time is 938.209645033 seconds.
+instance: 136
+Elapsed time is 944.714581013 seconds.
+instance: 137
+Elapsed time is 951.27372694 seconds.
+instance: 138
+Elapsed time is 957.834316015 seconds.
+instance: 139
+Elapsed time is 964.187777996 seconds.
+instance: 140
+Elapsed time is 970.538855076 seconds.
+instance: 141
+Elapsed time is 977.013957977 seconds.
+instance: 142
+Elapsed time is 983.37369895 seconds.
+instance: 143
+Elapsed time is 989.791045904 seconds.
+instance: 144
+Elapsed time is 996.338146925 seconds.
+instance: 145
+Elapsed time is 1002.74018598 seconds.
+instance: 146
+Elapsed time is 1009.22116089 seconds.
+instance: 147
+Elapsed time is 1015.97911692 seconds.
+instance: 148
+Elapsed time is 1022.60483503 seconds.
+instance: 149
+Elapsed time is 1029.31543207 seconds.
+instance: 150
+Elapsed time is 1035.723032 seconds.
+instance: 151
+Elapsed time is 1042.52183294 seconds.
+instance: 152
+Elapsed time is 1049.16688609 seconds.
+instance: 153
+Elapsed time is 1055.93801498 seconds.
+instance: 154
+Elapsed time is 1062.44062996 seconds.
+instance: 155
+Elapsed time is 1068.96438098 seconds.
+instance: 156
+Elapsed time is 1075.73253512 seconds.
+instance: 157
+Elapsed time is 1082.51704502 seconds.
+instance: 158
+Elapsed time is 1088.994941 seconds.
+instance: 159
+Elapsed time is 1095.3631289 seconds.
+instance: 160
+Elapsed time is 1101.74223709 seconds.
+instance: 161
+Elapsed time is 1108.188766 seconds.
+instance: 162
+Elapsed time is 1114.6693511 seconds.
+instance: 163
+Elapsed time is 1121.08341599 seconds.
+instance: 164
+Elapsed time is 1127.64974403 seconds.
+instance: 165
+Elapsed time is 1133.99387693 seconds.
+instance: 166
+Elapsed time is 1140.41797996 seconds.
+instance: 167
+Elapsed time is 1146.85019302 seconds.
+instance: 168
+Elapsed time is 1153.38408494 seconds.
+instance: 169
+Elapsed time is 1159.85082197 seconds.
+instance: 170
+Elapsed time is 1166.25423503 seconds.
+instance: 171
+Elapsed time is 1172.64513493 seconds.
+instance: 172
+Elapsed time is 1179.04427695 seconds.
+instance: 173
+Elapsed time is 1185.54220891 seconds.
+instance: 174
+Elapsed time is 1192.11615705 seconds.
+instance: 175
+Elapsed time is 1198.69229007 seconds.
+instance: 176
+Elapsed time is 1205.19419789 seconds.
+instance: 177
+Elapsed time is 1211.76738 seconds.
+instance: 178
+Elapsed time is 1218.04621911 seconds.
+instance: 179
+Elapsed time is 1224.5289731 seconds.
+instance: 180
+Elapsed time is 1231.43861103 seconds.
+instance: 181
+Elapsed time is 1238.80835509 seconds.
+instance: 182
+Elapsed time is 1246.58165407 seconds.
+instance: 183
+Elapsed time is 1254.32797098 seconds.
+instance: 184
+Elapsed time is 1261.74300694 seconds.
+instance: 185
+Elapsed time is 1268.60823393 seconds.
+instance: 186
+Elapsed time is 1275.41065598 seconds.
+instance: 187
+Elapsed time is 1282.34159708 seconds.
+instance: 188
+Elapsed time is 1289.13246202 seconds.
+instance: 189
+Elapsed time is 1295.7997849 seconds.
+instance: 190
+Elapsed time is 1302.59412694 seconds.
+instance: 191
+Elapsed time is 1309.54049301 seconds.
+instance: 192
+Elapsed time is 1316.32021093 seconds.
+instance: 193
+Elapsed time is 1323.14946103 seconds.
+instance: 194
+Elapsed time is 1330.04393101 seconds.
+instance: 195
+Elapsed time is 1337.16396689 seconds.
+instance: 196
+Elapsed time is 1344.10966396 seconds.
+instance: 197
+Elapsed time is 1351.04913902 seconds.
+instance: 198
+Elapsed time is 1358.10093999 seconds.
+instance: 199
+Elapsed time is 1365.03603601 seconds.
+instance: 200
+Elapsed time is 1371.96654701 seconds.
+instance: 201
+Elapsed time is 1378.94539905 seconds.
+instance: 202
+Elapsed time is 1386.10762 seconds.
+instance: 203
+Elapsed time is 1393.17574596 seconds.
+instance: 204
+Elapsed time is 1400.29538012 seconds.
+instance: 205
+Elapsed time is 1407.332515 seconds.
+instance: 206
+Elapsed time is 1414.10062599 seconds.
+instance: 207
+Elapsed time is 1421.39439201 seconds.
+instance: 208
+Elapsed time is 1428.63471198 seconds.
+instance: 209
+Elapsed time is 1435.74828601 seconds.
+instance: 210
+Elapsed time is 1442.94228196 seconds.
+instance: 211
+Elapsed time is 1450.05336308 seconds.
+instance: 212
+Elapsed time is 1457.12033892 seconds.
+instance: 213
+Elapsed time is 1464.26025796 seconds.
+instance: 214
+Elapsed time is 1471.22650003 seconds.
+instance: 215
+Elapsed time is 1478.38370109 seconds.
+instance: 216
+Elapsed time is 1485.47581792 seconds.
+instance: 217
+Elapsed time is 1492.55581212 seconds.
+instance: 218
+Elapsed time is 1499.6975019 seconds.
+instance: 219
+Elapsed time is 1506.85180402 seconds.
+instance: 220
+Elapsed time is 1514.01910806 seconds.
+instance: 221
+Elapsed time is 1521.28640389 seconds.
+instance: 222
+Elapsed time is 1528.19661808 seconds.
+instance: 223
+Elapsed time is 1535.31004906 seconds.
+instance: 224
+Elapsed time is 1542.42302203 seconds.
+instance: 225
+Elapsed time is 1549.69650102 seconds.
+instance: 226
+Elapsed time is 1556.68996501 seconds.
+instance: 227
+Elapsed time is 1563.93272495 seconds.
+instance: 228
+Elapsed time is 1571.36099005 seconds.
+instance: 229
+Elapsed time is 1578.95368695 seconds.
+instance: 230
+Elapsed time is 1586.14052606 seconds.
+instance: 231
+Elapsed time is 1592.82090211 seconds.
+instance: 232
+Elapsed time is 1599.412992 seconds.
+instance: 233
+Elapsed time is 1606.12028098 seconds.
+instance: 234
+Elapsed time is 1612.99990106 seconds.
+instance: 235
+Elapsed time is 1619.98957801 seconds.
+instance: 236
+Elapsed time is 1627.27703309 seconds.
+instance: 237
+Elapsed time is 1634.19601798 seconds.
+instance: 238
+Elapsed time is 1641.36489391 seconds.
+instance: 239
+Elapsed time is 1648.3653841 seconds.
+instance: 240
+Elapsed time is 1655.03158593 seconds.
+instance: 241
+Elapsed time is 1661.916008 seconds.
+instance: 242
+Elapsed time is 1668.84235692 seconds.
+instance: 243
+Elapsed time is 1675.78141308 seconds.
+instance: 244
+Elapsed time is 1683.03334904 seconds.
+instance: 245
+Elapsed time is 1689.21938205 seconds.
+instance: 246
+Elapsed time is 1695.83578396 seconds.
+instance: 247
+Elapsed time is 1701.98723912 seconds.
+instance: 248
+Elapsed time is 1708.13325405 seconds.
+instance: 249
+Elapsed time is 1714.3639679 seconds.
+instance: 250
+Elapsed time is 1720.45609999 seconds.
+instance: 251
+Elapsed time is 1726.61659408 seconds.
+instance: 252
+Elapsed time is 1732.74955511 seconds.
+instance: 253
+Elapsed time is 1738.89579391 seconds.
+instance: 254
+Elapsed time is 1745.0956161 seconds.
+instance: 255
+Elapsed time is 1751.44403696 seconds.
+instance: 256
+Elapsed time is 1757.60807395 seconds.
+instance: 257
+Elapsed time is 1763.73055291 seconds.
+instance: 258
+Elapsed time is 1769.90213394 seconds.
+instance: 259
+Elapsed time is 1776.06950092 seconds.
+instance: 260
+Elapsed time is 1782.19251609 seconds.
+instance: 261
+Elapsed time is 1788.34042907 seconds.
+instance: 262
+Elapsed time is 1794.49920392 seconds.
+instance: 263
+Elapsed time is 1800.57379508 seconds.
+instance: 264
+Elapsed time is 1806.76467991 seconds.
+instance: 265
+Elapsed time is 1812.90738606 seconds.
+instance: 266
+Elapsed time is 1819.056252 seconds.
+instance: 267
+Elapsed time is 1825.247473 seconds.
+instance: 268
+Elapsed time is 1831.42324495 seconds.
+instance: 269
+Elapsed time is 1837.61188197 seconds.
+instance: 270
+Elapsed time is 1843.82565689 seconds.
+instance: 271
+Elapsed time is 1849.9198761 seconds.
+instance: 272
+Elapsed time is 1856.13933492 seconds.
+instance: 273
+Elapsed time is 1862.3090241 seconds.
+instance: 274
+Elapsed time is 1868.47787404 seconds.
+instance: 275
+Elapsed time is 1874.64264011 seconds.
+instance: 276
+Elapsed time is 1880.78682709 seconds.
+instance: 277
+Elapsed time is 1886.96536589 seconds.
+instance: 278
+Elapsed time is 1893.13690495 seconds.
+instance: 279
+Elapsed time is 1899.79709697 seconds.
+instance: 280
+Elapsed time is 1906.45712805 seconds.
+instance: 281
+Elapsed time is 1912.61277795 seconds.
+instance: 282
+Elapsed time is 1918.75176191 seconds.
+instance: 283
+Elapsed time is 1924.90208507 seconds.
+instance: 284
+Elapsed time is 1930.99941611 seconds.
+instance: 285
+Elapsed time is 1937.23234701 seconds.
+instance: 286
+Elapsed time is 1943.41528797 seconds.
+instance: 287
+Elapsed time is 1949.59991193 seconds.
+instance: 288
+Elapsed time is 1955.81090903 seconds.
+instance: 289
+Elapsed time is 1961.96197104 seconds.
+instance: 290
+Elapsed time is 1968.17478395 seconds.
+instance: 291
+Elapsed time is 1974.3386941 seconds.
+instance: 292
+Elapsed time is 1980.42999792 seconds.
+instance: 293
+Elapsed time is 1986.58753395 seconds.
+instance: 294
+Elapsed time is 1992.76666498 seconds.
+instance: 295
+Elapsed time is 1998.92807603 seconds.
+instance: 296
+Elapsed time is 2005.14457607 seconds.
+instance: 297
+Elapsed time is 2011.26218009 seconds.
+instance: 298
+Elapsed time is 2017.30210996 seconds.
+instance: 299
+Elapsed time is 2023.43949699 seconds.
+instance: 300
+Elapsed time is 2029.64563394 seconds.
+instance: 301
+Elapsed time is 2035.7449131 seconds.
+instance: 302
+Elapsed time is 2041.95060492 seconds.
+instance: 303
+Elapsed time is 2048.13837504 seconds.
+instance: 304
+Elapsed time is 2054.32479095 seconds.
+instance: 305
+Elapsed time is 2060.51119399 seconds.
+instance: 306
+Elapsed time is 2066.65572309 seconds.
+instance: 307
+Elapsed time is 2072.78207111 seconds.
+instance: 308
+Elapsed time is 2078.90005302 seconds.
+instance: 309
+Elapsed time is 2085.10078406 seconds.
+instance: 310
+Elapsed time is 2091.26259303 seconds.
+instance: 311
+Elapsed time is 2097.42342806 seconds.
+instance: 312
+Elapsed time is 2103.60335112 seconds.
+instance: 313
+Elapsed time is 2109.81606293 seconds.
+instance: 314
+Elapsed time is 2115.95742893 seconds.
+instance: 315
+Elapsed time is 2122.09256697 seconds.
+instance: 316
+Elapsed time is 2128.27414107 seconds.
+instance: 317
+Elapsed time is 2134.51099706 seconds.
+instance: 318
+Elapsed time is 2140.6165359 seconds.
+instance: 319
+Elapsed time is 2146.74116611 seconds.
+instance: 320
+Elapsed time is 2152.90731096 seconds.
+instance: 321
+Elapsed time is 2158.97635698 seconds.
+instance: 322
+Elapsed time is 2165.10259891 seconds.
+instance: 323
+Elapsed time is 2171.16347003 seconds.
+instance: 324
+Elapsed time is 2177.33174706 seconds.
+instance: 325
+Elapsed time is 2183.49917603 seconds.
+instance: 326
+Elapsed time is 2189.57778692 seconds.
+instance: 327
+Elapsed time is 2195.76791692 seconds.
+instance: 328
+Elapsed time is 2201.82849693 seconds.
+instance: 329
+Elapsed time is 2207.96835804 seconds.
+instance: 330
+Elapsed time is 2214.03319693 seconds.
+instance: 331
+Elapsed time is 2220.03215289 seconds.
+instance: 332
+Elapsed time is 2226.09385109 seconds.
+instance: 333
+Elapsed time is 2232.23426199 seconds.
+instance: 334
+Elapsed time is 2238.42295003 seconds.
+instance: 335
+Elapsed time is 2244.52768898 seconds.
+instance: 336
+Elapsed time is 2250.68284702 seconds.
+instance: 337
+Elapsed time is 2256.8266871 seconds.
+instance: 338
+Elapsed time is 2262.87285709 seconds.
+instance: 339
+Elapsed time is 2269.00030804 seconds.
+instance: 340
+Elapsed time is 2275.09589911 seconds.
+instance: 341
+Elapsed time is 2281.30403399 seconds.
+instance: 342
+Elapsed time is 2287.54935503 seconds.
+instance: 343
+Elapsed time is 2293.76258111 seconds.
+instance: 344
+Elapsed time is 2299.96332502 seconds.
+instance: 345
+Elapsed time is 2306.10268807 seconds.
+instance: 346
+Elapsed time is 2312.28366089 seconds.
+instance: 347
+Elapsed time is 2318.43965912 seconds.
+instance: 348
+Elapsed time is 2324.49590397 seconds.
+instance: 349
+Elapsed time is 2330.72483397 seconds.
+instance: 350
+Elapsed time is 2336.83865809 seconds.
+instance: 351
+Elapsed time is 2343.01719308 seconds.
+instance: 352
+Elapsed time is 2349.14980292 seconds.
+instance: 353
+Elapsed time is 2355.28679991 seconds.
+instance: 354
+Elapsed time is 2361.45396399 seconds.
+instance: 355
+Elapsed time is 2367.68524909 seconds.
+instance: 356
+Elapsed time is 2373.85225701 seconds.
+instance: 357
+Elapsed time is 2379.99636507 seconds.
+instance: 358
+Elapsed time is 2386.19242001 seconds.
+instance: 359
+Elapsed time is 2392.34991407 seconds.
+instance: 360
+Elapsed time is 2398.57727599 seconds.
+instance: 361
+Elapsed time is 2404.75428796 seconds.
+instance: 362
+Elapsed time is 2410.840132 seconds.
+instance: 363
+Elapsed time is 2416.90607595 seconds.
+instance: 364
+Elapsed time is 2423.04376411 seconds.
+instance: 365
+Elapsed time is 2429.2070961 seconds.
+instance: 366
+Elapsed time is 2435.36556292 seconds.
+instance: 367
+Elapsed time is 2441.50553012 seconds.
+instance: 368
+Elapsed time is 2447.68431497 seconds.
+instance: 369
+Elapsed time is 2453.81059909 seconds.
+instance: 370
+Elapsed time is 2459.90906596 seconds.
+instance: 371
+Elapsed time is 2466.05175591 seconds.
+instance: 372
+Elapsed time is 2472.12540507 seconds.
+instance: 373
+Elapsed time is 2478.13733411 seconds.
+instance: 374
+Elapsed time is 2484.28223109 seconds.
+instance: 375
+Elapsed time is 2490.47599006 seconds.
+instance: 376
+Elapsed time is 2496.62786508 seconds.
+instance: 377
+Elapsed time is 2502.74017906 seconds.
+instance: 378
+Elapsed time is 2508.8702879 seconds.
+instance: 379
+Elapsed time is 2515.15728807 seconds.
+instance: 380
+Elapsed time is 2521.30983996 seconds.
+instance: 381
+Elapsed time is 2527.51972008 seconds.
+instance: 382
+Elapsed time is 2533.69522309 seconds.
+instance: 383
+Elapsed time is 2539.818681 seconds.
+instance: 384
+Elapsed time is 2546.04095411 seconds.
+instance: 385
+Elapsed time is 2552.18656707 seconds.
+instance: 386
+Elapsed time is 2558.1961019 seconds.
+instance: 387
+Elapsed time is 2564.27003503 seconds.
+instance: 388
+Elapsed time is 2570.38022089 seconds.
+instance: 389
+Elapsed time is 2576.54660392 seconds.
+instance: 390
+Elapsed time is 2582.70883203 seconds.
+instance: 391
+Elapsed time is 2588.85747194 seconds.
+instance: 392
+Elapsed time is 2594.91805291 seconds.
+instance: 393
+Elapsed time is 2601.10630703 seconds.
+instance: 394
+Elapsed time is 2607.25167394 seconds.
+instance: 395
+Elapsed time is 2613.28012609 seconds.
+instance: 396
+Elapsed time is 2619.42054009 seconds.
+instance: 397
+Elapsed time is 2625.5270319 seconds.
+instance: 398
+Elapsed time is 2631.71678901 seconds.
+instance: 399
+Elapsed time is 2637.85391212 seconds.
+instance: 400
+Elapsed time is 2643.96115994 seconds.
+instance: 401
+Elapsed time is 2650.04611802 seconds.
+instance: 402
+Elapsed time is 2656.26054907 seconds.
+instance: 403
+Elapsed time is 2662.44757605 seconds.
+instance: 404
+Elapsed time is 2668.6762991 seconds.
+instance: 405
+Elapsed time is 2674.85949206 seconds.
+instance: 406
+Elapsed time is 2680.98319197 seconds.
+instance: 407
+Elapsed time is 2687.17477608 seconds.
+instance: 408
+Elapsed time is 2693.32561803 seconds.
+instance: 409
+Elapsed time is 2699.52679205 seconds.
+instance: 410
+Elapsed time is 2705.65592003 seconds.
+instance: 411
+Elapsed time is 2711.78986001 seconds.
+instance: 412
+Elapsed time is 2717.9924221 seconds.
+instance: 413
+Elapsed time is 2724.11305308 seconds.
+instance: 414
+Elapsed time is 2730.27140903 seconds.
+instance: 415
+Elapsed time is 2736.40931392 seconds.
+instance: 416
+Elapsed time is 2742.56833291 seconds.
+instance: 417
+Elapsed time is 2748.67694211 seconds.
+instance: 418
+Elapsed time is 2754.85188007 seconds.
+instance: 419
+Elapsed time is 2760.98762798 seconds.
+instance: 420
+Elapsed time is 2767.12640905 seconds.
+instance: 421
+Elapsed time is 2773.271698 seconds.
+instance: 422
+Elapsed time is 2779.48772192 seconds.
+instance: 423
+Elapsed time is 2785.60938311 seconds.
+instance: 424
+Elapsed time is 2791.80260491 seconds.
+instance: 425
+Elapsed time is 2797.98671794 seconds.
+instance: 426
+Elapsed time is 2804.0590539 seconds.
+instance: 427
+Elapsed time is 2810.22299409 seconds.
+instance: 428
+Elapsed time is 2816.41666889 seconds.
+instance: 429
+Elapsed time is 2822.5616591 seconds.
+instance: 430
+Elapsed time is 2828.6971209 seconds.
+instance: 431
+Elapsed time is 2834.83025694 seconds.
+instance: 432
+Elapsed time is 2840.90296102 seconds.
+instance: 433
+Elapsed time is 2847.00127602 seconds.
+instance: 434
+Elapsed time is 2853.228688 seconds.
+instance: 435
+Elapsed time is 2859.37371802 seconds.
+instance: 436
+Elapsed time is 2865.51571512 seconds.
+instance: 437
+Elapsed time is 2871.67930293 seconds.
+instance: 438
+Elapsed time is 2877.84183097 seconds.
+instance: 439
+Elapsed time is 2883.98719192 seconds.
+instance: 440
+Elapsed time is 2890.11177611 seconds.
+instance: 441
+Elapsed time is 2896.24953008 seconds.
+instance: 442
+Elapsed time is 2902.38145494 seconds.
+instance: 443
+Elapsed time is 2908.54675508 seconds.
+instance: 444
+Elapsed time is 2914.72834206 seconds.
+instance: 445
+Elapsed time is 2920.92715406 seconds.
+instance: 446
+Elapsed time is 2927.01271391 seconds.
+instance: 447
+Elapsed time is 2933.13146806 seconds.
+instance: 448
+Elapsed time is 2939.28052092 seconds.
+instance: 449
+Elapsed time is 2945.46358109 seconds.
+instance: 450
+Elapsed time is 2951.64001894 seconds.
+instance: 451
+Elapsed time is 2957.77828312 seconds.
+instance: 452
+Elapsed time is 2963.96604896 seconds.
+instance: 453
+Elapsed time is 2970.13342404 seconds.
+instance: 454
+Elapsed time is 2976.31116891 seconds.
+instance: 455
+Elapsed time is 2982.44910693 seconds.
+instance: 456
+Elapsed time is 2988.60320807 seconds.
+instance: 457
+Elapsed time is 2994.82118797 seconds.
+instance: 458
+Elapsed time is 3000.86303091 seconds.
+instance: 459
+Elapsed time is 3006.90988302 seconds.
+instance: 460
+Elapsed time is 3012.97944403 seconds.
+instance: 461
+Elapsed time is 3019.05021596 seconds.
+instance: 462
+Elapsed time is 3025.20236206 seconds.
+instance: 463
+Elapsed time is 3031.384583 seconds.
+instance: 464
+Elapsed time is 3037.53322601 seconds.
+instance: 465
+Elapsed time is 3043.70601296 seconds.
+instance: 466
+Elapsed time is 3049.86890411 seconds.
+instance: 467
+Elapsed time is 3056.05783105 seconds.
+instance: 468
+Elapsed time is 3062.27209711 seconds.
+instance: 469
+Elapsed time is 3068.46776104 seconds.
+instance: 470
+Elapsed time is 3074.66153002 seconds.
+instance: 471
+Elapsed time is 3080.77834392 seconds.
+instance: 472
+Elapsed time is 3086.95896912 seconds.
+instance: 473
+Elapsed time is 3093.13909698 seconds.
+instance: 474
+Elapsed time is 3099.32155108 seconds.
+instance: 475
+Elapsed time is 3105.74030304 seconds.
+instance: 476
+Elapsed time is 3112.11127305 seconds.
+instance: 477
+Elapsed time is 3118.41153598 seconds.
+instance: 478
+Elapsed time is 3124.7962749 seconds.
+instance: 479
+Elapsed time is 3131.11967111 seconds.
+instance: 480
+Elapsed time is 3137.42744589 seconds.
+instance: 481
+Elapsed time is 3143.77376509 seconds.
+instance: 482
+Elapsed time is 3150.25794601 seconds.
+instance: 483
+Elapsed time is 3156.71376109 seconds.
+instance: 484
+Elapsed time is 3163.21952701 seconds.
+instance: 485
+Elapsed time is 3169.62462211 seconds.
+instance: 486
+Elapsed time is 3176.05435205 seconds.
+instance: 487
+Elapsed time is 3182.41832399 seconds.
+instance: 488
+Elapsed time is 3188.7644639 seconds.
+instance: 489
+Elapsed time is 3195.23119593 seconds.
+instance: 490
+Elapsed time is 3201.75829101 seconds.
+instance: 491
+Elapsed time is 3208.47607112 seconds.
+instance: 492
+Elapsed time is 3215.52755904 seconds.
+instance: 493
+Elapsed time is 3222.47613192 seconds.
+instance: 494
+Elapsed time is 3229.44910908 seconds.
+instance: 495
+Elapsed time is 3236.12476802 seconds.
+instance: 496
+Elapsed time is 3243.09179592 seconds.
+instance: 497
+Elapsed time is 3249.78530812 seconds.
+instance: 498
+Elapsed time is 3256.87170601 seconds.
+instance: 499
+Elapsed time is 3263.63623095 seconds.
+instance: 500
+Elapsed time is 3270.04884195 seconds.
+instance: 501
+Elapsed time is 3277.11785889 seconds.
+instance: 502
+Elapsed time is 3283.74072599 seconds.
+instance: 503
+Elapsed time is 3290.2048161 seconds.
+instance: 504
+Elapsed time is 3296.60685492 seconds.
+instance: 505
+Elapsed time is 3302.9322381 seconds.
+instance: 506
+Elapsed time is 3309.3484571 seconds.
+instance: 507
+Elapsed time is 3315.730443 seconds.
+instance: 508
+Elapsed time is 3322.19849491 seconds.
+instance: 509
+Elapsed time is 3328.5975821 seconds.
+instance: 510
+Elapsed time is 3334.97842002 seconds.
+instance: 511
+Elapsed time is 3341.39673805 seconds.
+instance: 512
+Elapsed time is 3347.83747411 seconds.
+instance: 513
+Elapsed time is 3354.22569895 seconds.
+instance: 514
+Elapsed time is 3360.63617611 seconds.
+instance: 515
+Elapsed time is 3367.09160995 seconds.
+instance: 516
+Elapsed time is 3373.48652101 seconds.
+instance: 517
+Elapsed time is 3379.96276212 seconds.
+instance: 518
+Elapsed time is 3386.39828396 seconds.
+instance: 519
+Elapsed time is 3392.75198889 seconds.
+instance: 520
+Elapsed time is 3399.09896302 seconds.
+instance: 521
+Elapsed time is 3405.481354 seconds.
+instance: 522
+Elapsed time is 3411.80411291 seconds.
+instance: 523
+Elapsed time is 3418.24001694 seconds.
+instance: 524
+Elapsed time is 3424.59820104 seconds.
+instance: 525
+Elapsed time is 3431.0428791 seconds.
+instance: 526
+Elapsed time is 3437.4690361 seconds.
+instance: 527
+Elapsed time is 3443.87300801 seconds.
+instance: 528
+Elapsed time is 3450.37535095 seconds.
+instance: 529
+Elapsed time is 3456.89831805 seconds.
+instance: 530
+Elapsed time is 3463.27174306 seconds.
+instance: 531
+Elapsed time is 3469.69580793 seconds.
+instance: 532
+Elapsed time is 3476.02999306 seconds.
+instance: 533
+Elapsed time is 3482.34849811 seconds.
+instance: 534
+Elapsed time is 3488.7911799 seconds.
+instance: 535
+Elapsed time is 3495.1082921 seconds.
+instance: 536
+Elapsed time is 3501.42914391 seconds.
+instance: 537
+Elapsed time is 3507.84970903 seconds.
+instance: 538
+Elapsed time is 3514.14658093 seconds.
+instance: 539
+Elapsed time is 3520.395118 seconds.
+instance: 540
+Elapsed time is 3526.78624296 seconds.
+instance: 541
+Elapsed time is 3533.25023007 seconds.
+instance: 542
+Elapsed time is 3539.61272001 seconds.
+instance: 543
+Elapsed time is 3546.07139206 seconds.
+instance: 544
+Elapsed time is 3552.49373293 seconds.
+instance: 545
+Elapsed time is 3558.93053412 seconds.
+instance: 546
+Elapsed time is 3565.4635601 seconds.
+instance: 547
+Elapsed time is 3571.91151905 seconds.
+instance: 548
+Elapsed time is 3578.34386301 seconds.
+instance: 549
+Elapsed time is 3584.82330894 seconds.
+instance: 550
+Elapsed time is 3591.23689008 seconds.
+instance: 551
+Elapsed time is 3597.6743021 seconds.
+instance: 552
+Elapsed time is 3604.08818889 seconds.
+instance: 553
+Elapsed time is 3610.54718709 seconds.
+instance: 554
+Elapsed time is 3617.163831 seconds.
+instance: 555
+Elapsed time is 3624.15114307 seconds.
+instance: 556
+Elapsed time is 3630.82666302 seconds.
+instance: 557
+Elapsed time is 3637.72493601 seconds.
+instance: 558
+Elapsed time is 3644.34696698 seconds.
+instance: 559
+Elapsed time is 3651.23499393 seconds.
+instance: 560
+Elapsed time is 3657.60641503 seconds.
+instance: 561
+Elapsed time is 3664.62013602 seconds.
+instance: 562
+Elapsed time is 3671.56993604 seconds.
+instance: 563
+Elapsed time is 3677.98382497 seconds.
+instance: 564
+Elapsed time is 3684.79996991 seconds.
+instance: 565
+Elapsed time is 3691.77056789 seconds.
+instance: 566
+Elapsed time is 3698.37538004 seconds.
+instance: 567
+Elapsed time is 3704.78719091 seconds.
+instance: 568
+Elapsed time is 3711.20668697 seconds.
+instance: 569
+Elapsed time is 3717.41469908 seconds.
+instance: 570
+Elapsed time is 3723.76979089 seconds.
+instance: 571
+Elapsed time is 3730.06612992 seconds.
+instance: 572
+Elapsed time is 3736.3588419 seconds.
+instance: 573
+Elapsed time is 3742.66808701 seconds.
+instance: 574
+Elapsed time is 3748.97561002 seconds.
+instance: 575
+Elapsed time is 3755.46125293 seconds.
+instance: 576
+Elapsed time is 3761.7421031 seconds.
+instance: 577
+Elapsed time is 3767.91936707 seconds.
+instance: 578
+Elapsed time is 3774.07254195 seconds.
+instance: 579
+Elapsed time is 3780.18386793 seconds.
+instance: 580
+Elapsed time is 3786.31938601 seconds.
+instance: 581
+Elapsed time is 3792.48805308 seconds.
+instance: 582
+Elapsed time is 3798.66921997 seconds.
+instance: 583
+Elapsed time is 3804.82069302 seconds.
+instance: 584
+Elapsed time is 3810.99601293 seconds.
+instance: 585
+Elapsed time is 3817.174613 seconds.
+instance: 586
+Elapsed time is 3823.32228804 seconds.
+instance: 587
+Elapsed time is 3829.48598289 seconds.
+instance: 588
+Elapsed time is 3835.64197803 seconds.
+instance: 589
+Elapsed time is 3841.82502604 seconds.
+instance: 590
+Elapsed time is 3848.00595403 seconds.
+instance: 591
+Elapsed time is 3854.19967294 seconds.
+instance: 592
+Elapsed time is 3860.30816007 seconds.
+instance: 593
+Elapsed time is 3866.372401 seconds.
+instance: 594
+Elapsed time is 3872.514359 seconds.
+instance: 595
+Elapsed time is 3878.66732311 seconds.
+instance: 596
+Elapsed time is 3884.85323501 seconds.
+instance: 597
+Elapsed time is 3890.81286192 seconds.
+instance: 598
+Elapsed time is 3896.97671294 seconds.
+instance: 599
+Elapsed time is 3903.11111403 seconds.
+instance: 600
+Elapsed time is 3909.25785804 seconds.
+instance: 601
+Elapsed time is 3915.39690709 seconds.
+instance: 602
+Elapsed time is 3921.50012112 seconds.
+instance: 603
+Elapsed time is 3927.72564411 seconds.
+instance: 604
+Elapsed time is 3933.86817789 seconds.
+instance: 605
+Elapsed time is 3939.97977591 seconds.
+instance: 606
+Elapsed time is 3946.1504941 seconds.
+instance: 607
+Elapsed time is 3952.2944181 seconds.
+instance: 608
+Elapsed time is 3958.43645906 seconds.
+instance: 609
+Elapsed time is 3964.43258309 seconds.
+instance: 610
+Elapsed time is 3970.57340598 seconds.
+instance: 611
+Elapsed time is 3976.77007008 seconds.
+instance: 612
+Elapsed time is 3982.91700602 seconds.
+instance: 613
+Elapsed time is 3989.0702951 seconds.
+instance: 614
+Elapsed time is 3995.18283105 seconds.
+instance: 615
+Elapsed time is 4001.29716396 seconds.
+instance: 616
+Elapsed time is 4007.35285902 seconds.
+instance: 617
+Elapsed time is 4013.4961679 seconds.
+instance: 618
+Elapsed time is 4019.64048505 seconds.
+instance: 619
+Elapsed time is 4025.68958306 seconds.
+instance: 620
+Elapsed time is 4031.83586597 seconds.
+instance: 621
+Elapsed time is 4037.93365312 seconds.
+instance: 622
+Elapsed time is 4044.08235693 seconds.
+instance: 623
+Elapsed time is 4050.15178394 seconds.
+instance: 624
+Elapsed time is 4056.30738997 seconds.
+instance: 625
+Elapsed time is 4062.512182 seconds.
+instance: 626
+Elapsed time is 4068.64490604 seconds.
+instance: 627
+Elapsed time is 4074.96498489 seconds.
+instance: 628
+Elapsed time is 4081.08065891 seconds.
+instance: 629
+Elapsed time is 4087.20208907 seconds.
+instance: 630
+Elapsed time is 4093.33649802 seconds.
+instance: 631
+Elapsed time is 4099.44918489 seconds.
+instance: 632
+Elapsed time is 4105.62082696 seconds.
+instance: 633
+Elapsed time is 4111.83340907 seconds.
+instance: 634
+Elapsed time is 4118.00196505 seconds.
+instance: 635
+Elapsed time is 4124.15772104 seconds.
+instance: 636
+Elapsed time is 4130.338166 seconds.
+instance: 637
+Elapsed time is 4136.51447892 seconds.
+instance: 638
+Elapsed time is 4142.67390895 seconds.
+instance: 639
+Elapsed time is 4148.79699111 seconds.
+instance: 640
+Elapsed time is 4154.88330698 seconds.
+instance: 641
+Elapsed time is 4161.06316996 seconds.
+instance: 642
+Elapsed time is 4167.15785599 seconds.
+instance: 643
+Elapsed time is 4173.22692108 seconds.
+instance: 644
+Elapsed time is 4179.36789799 seconds.
+instance: 645
+Elapsed time is 4185.48523498 seconds.
+instance: 646
+Elapsed time is 4191.56320405 seconds.
+instance: 647
+Elapsed time is 4197.62239289 seconds.
+instance: 648
+Elapsed time is 4203.66192102 seconds.
+instance: 649
+Elapsed time is 4209.75234604 seconds.
+instance: 650
+Elapsed time is 4215.89698195 seconds.
+instance: 651
+Elapsed time is 4222.06284404 seconds.
+instance: 652
+Elapsed time is 4228.17180109 seconds.
+instance: 653
+Elapsed time is 4234.37879992 seconds.
+instance: 654
+Elapsed time is 4240.53697205 seconds.
+instance: 655
+Elapsed time is 4246.66973209 seconds.
+instance: 656
+Elapsed time is 4252.86185908 seconds.
+instance: 657
+Elapsed time is 4259.05236006 seconds.
+instance: 658
+Elapsed time is 4265.19937897 seconds.
+instance: 659
+Elapsed time is 4271.31350994 seconds.
+instance: 660
+Elapsed time is 4277.41448998 seconds.
+instance: 661
+Elapsed time is 4283.59091496 seconds.
+instance: 662
+Elapsed time is 4289.75513101 seconds.
+instance: 663
+Elapsed time is 4295.93761706 seconds.
+instance: 664
+Elapsed time is 4302.11049795 seconds.
+instance: 665
+Elapsed time is 4308.31002712 seconds.
+instance: 666
+Elapsed time is 4314.49093795 seconds.
+instance: 667
+Elapsed time is 4320.6062119 seconds.
+instance: 668
+Elapsed time is 4326.78349304 seconds.
+instance: 669
+Elapsed time is 4332.97624302 seconds.
+instance: 670
+Elapsed time is 4339.06564593 seconds.
+instance: 671
+Elapsed time is 4345.26541805 seconds.
+instance: 672
+Elapsed time is 4351.42804193 seconds.
+instance: 673
+Elapsed time is 4357.57904911 seconds.
+instance: 674
+Elapsed time is 4363.79918098 seconds.
+instance: 675
+Elapsed time is 4369.96852303 seconds.
+instance: 676
+Elapsed time is 4376.04593492 seconds.
+instance: 677
+Elapsed time is 4382.22810292 seconds.
+instance: 678
+Elapsed time is 4388.38951302 seconds.
+instance: 679
+Elapsed time is 4394.48161411 seconds.
+instance: 680
+Elapsed time is 4400.62793112 seconds.
+instance: 681
+Elapsed time is 4406.81263089 seconds.
+instance: 682
+Elapsed time is 4412.92969489 seconds.
+instance: 683
+Elapsed time is 4419.10303307 seconds.
+instance: 684
+Elapsed time is 4425.3204751 seconds.
+instance: 685
+Elapsed time is 4431.49998593 seconds.
+instance: 686
+Elapsed time is 4437.6296041 seconds.
+instance: 687
+Elapsed time is 4443.842834 seconds.
+instance: 688
+Elapsed time is 4450.13447499 seconds.
+instance: 689
+Elapsed time is 4456.24166989 seconds.
+instance: 690
+Elapsed time is 4462.42396998 seconds.
+instance: 691
+Elapsed time is 4468.59041309 seconds.
+instance: 692
+Elapsed time is 4474.75822806 seconds.
+instance: 693
+Elapsed time is 4480.91582704 seconds.
+instance: 694
+Elapsed time is 4487.07931709 seconds.
+instance: 695
+Elapsed time is 4493.14836597 seconds.
+instance: 696
+Elapsed time is 4499.2722261 seconds.
+instance: 697
+Elapsed time is 4505.34475398 seconds.
+instance: 698
+Elapsed time is 4511.47563696 seconds.
+instance: 699
+Elapsed time is 4517.62425208 seconds.
+instance: 700
+Elapsed time is 4523.84000111 seconds.
+instance: 701
+Elapsed time is 4530.04496193 seconds.
+instance: 702
+Elapsed time is 4536.29408908 seconds.
+instance: 703
+Elapsed time is 4542.41911411 seconds.
+instance: 704
+Elapsed time is 4548.60649896 seconds.
+instance: 705
+Elapsed time is 4554.717314 seconds.
+instance: 706
+Elapsed time is 4560.89935398 seconds.
+instance: 707
+Elapsed time is 4567.06711698 seconds.
+instance: 708
+Elapsed time is 4573.18969107 seconds.
+instance: 709
+Elapsed time is 4579.3791101 seconds.
+instance: 710
+Elapsed time is 4585.57523799 seconds.
+instance: 711
+Elapsed time is 4591.77942109 seconds.
+instance: 712
+Elapsed time is 4597.97113299 seconds.
+instance: 713
+Elapsed time is 4604.14212894 seconds.
+instance: 714
+Elapsed time is 4610.28541994 seconds.
+instance: 715
+Elapsed time is 4616.47939396 seconds.
+instance: 716
+Elapsed time is 4622.67209101 seconds.
+instance: 717
+Elapsed time is 4628.80813503 seconds.
+instance: 718
+Elapsed time is 4634.96253705 seconds.
+instance: 719
+Elapsed time is 4641.14908195 seconds.
+instance: 720
+Elapsed time is 4647.35839105 seconds.
+instance: 721
+Elapsed time is 4653.54131699 seconds.
+instance: 722
+Elapsed time is 4659.69973993 seconds.
+instance: 723
+Elapsed time is 4665.9132719 seconds.
+instance: 724
+Elapsed time is 4672.07064104 seconds.
+instance: 725
+Elapsed time is 4678.2807579 seconds.
+instance: 726
+Elapsed time is 4684.44185305 seconds.
+instance: 727
+Elapsed time is 4690.599123 seconds.
+instance: 728
+Elapsed time is 4696.81519008 seconds.
+instance: 729
+Elapsed time is 4702.97041011 seconds.
+instance: 730
+Elapsed time is 4709.15018106 seconds.
+instance: 731
+Elapsed time is 4715.31731701 seconds.
+instance: 732
+Elapsed time is 4721.49182892 seconds.
+instance: 733
+Elapsed time is 4727.5847249 seconds.
+instance: 734
+Elapsed time is 4733.69043112 seconds.
+instance: 735
+Elapsed time is 4739.77760601 seconds.
+instance: 736
+Elapsed time is 4745.88237095 seconds.
+instance: 737
+Elapsed time is 4752.07233691 seconds.
+instance: 738
+Elapsed time is 4758.23717809 seconds.
+instance: 739
+Elapsed time is 4764.30284905 seconds.
+instance: 740
+Elapsed time is 4770.47454095 seconds.
+instance: 741
+Elapsed time is 4776.64866304 seconds.
+instance: 742
+Elapsed time is 4782.80127907 seconds.
+instance: 743
+Elapsed time is 4788.96410608 seconds.
+instance: 744
+Elapsed time is 4795.13669991 seconds.
+instance: 745
+Elapsed time is 4801.30653405 seconds.
+instance: 746
+Elapsed time is 4807.466748 seconds.
+instance: 747
+Elapsed time is 4813.64774108 seconds.
+instance: 748
+Elapsed time is 4819.76823902 seconds.
+instance: 749
+Elapsed time is 4825.91604805 seconds.
+instance: 750
+Elapsed time is 4832.10377192 seconds.
+instance: 751
+Elapsed time is 4838.24212193 seconds.
+instance: 752
+Elapsed time is 4844.36928892 seconds.
+instance: 753
+Elapsed time is 4850.51964498 seconds.
+instance: 754
+Elapsed time is 4856.70527601 seconds.
+instance: 755
+Elapsed time is 4862.85738707 seconds.
+instance: 756
+Elapsed time is 4869.02423191 seconds.
+instance: 757
+Elapsed time is 4875.20045495 seconds.
+instance: 758
+Elapsed time is 4881.36242008 seconds.
+instance: 759
+Elapsed time is 4887.5388391 seconds.
+instance: 760
+Elapsed time is 4893.7146039 seconds.
+instance: 761
+Elapsed time is 4899.828264 seconds.
+instance: 762
+Elapsed time is 4905.98118806 seconds.
+instance: 763
+Elapsed time is 4912.02249002 seconds.
+instance: 764
+Elapsed time is 4918.22252893 seconds.
+instance: 765
+Elapsed time is 4924.37870812 seconds.
+instance: 766
+Elapsed time is 4930.54238105 seconds.
+instance: 767
+Elapsed time is 4936.694906 seconds.
+instance: 768
+Elapsed time is 4942.76550508 seconds.
+instance: 769
+Elapsed time is 4948.94043589 seconds.
+instance: 770
+Elapsed time is 4955.06738997 seconds.
+instance: 771
+Elapsed time is 4961.18758893 seconds.
+instance: 772
+Elapsed time is 4967.36980009 seconds.
+instance: 773
+Elapsed time is 4973.55588198 seconds.
+instance: 774
+Elapsed time is 4979.75903392 seconds.
+instance: 775
+Elapsed time is 4985.95564699 seconds.
+instance: 776
+Elapsed time is 4992.1455009 seconds.
+instance: 777
+Elapsed time is 4998.32404208 seconds.
+instance: 778
+Elapsed time is 5004.48347902 seconds.
+instance: 779
+Elapsed time is 5010.67546511 seconds.
+instance: 780
+Elapsed time is 5016.84305096 seconds.
+instance: 781
+Elapsed time is 5023.0446229 seconds.
+instance: 782
+Elapsed time is 5029.15870595 seconds.
+instance: 783
+Elapsed time is 5035.36443996 seconds.
+instance: 784
+Elapsed time is 5041.51739907 seconds.
+instance: 785
+Elapsed time is 5047.6499989 seconds.
+instance: 786
+Elapsed time is 5053.81254601 seconds.
+instance: 787
+Elapsed time is 5059.96338797 seconds.
+instance: 788
+Elapsed time is 5066.17937303 seconds.
+instance: 789
+Elapsed time is 5072.33184195 seconds.
+instance: 790
+Elapsed time is 5078.46815205 seconds.
+instance: 791
+Elapsed time is 5084.61645603 seconds.
+instance: 792
+Elapsed time is 5090.76605392 seconds.
+instance: 793
+Elapsed time is 5096.93951511 seconds.
+instance: 794
+Elapsed time is 5103.06147408 seconds.
+instance: 795
+Elapsed time is 5109.2277391 seconds.
+instance: 796
+Elapsed time is 5115.41519189 seconds.
+instance: 797
+Elapsed time is 5121.59305906 seconds.
+instance: 798
+Elapsed time is 5127.77731705 seconds.
+instance: 799
+Elapsed time is 5133.98479891 seconds.
+instance: 800
+Elapsed time is 5140.09817004 seconds.
+instance: 801
+Elapsed time is 5146.28467298 seconds.
+instance: 802
+Elapsed time is 5152.42120409 seconds.
+instance: 803
+Elapsed time is 5158.5534451 seconds.
+instance: 804
+Elapsed time is 5164.67997599 seconds.
+instance: 805
+Elapsed time is 5170.72658396 seconds.
+instance: 806
+Elapsed time is 5176.82435393 seconds.
+instance: 807
+Elapsed time is 5182.96117806 seconds.
+instance: 808
+Elapsed time is 5189.09040809 seconds.
+instance: 809
+Elapsed time is 5195.27083302 seconds.
+instance: 810
+Elapsed time is 5201.36719489 seconds.
+instance: 811
+Elapsed time is 5207.56437492 seconds.
+instance: 812
+Elapsed time is 5213.70389795 seconds.
+instance: 813
+Elapsed time is 5219.78217602 seconds.
+instance: 814
+Elapsed time is 5225.94177794 seconds.
+instance: 815
+Elapsed time is 5232.12975597 seconds.
+instance: 816
+Elapsed time is 5238.29878998 seconds.
+instance: 817
+Elapsed time is 5244.39399004 seconds.
+instance: 818
+Elapsed time is 5250.56718612 seconds.
+instance: 819
+Elapsed time is 5256.74746704 seconds.
+instance: 820
+Elapsed time is 5262.90173697 seconds.
+instance: 821
+Elapsed time is 5269.03930712 seconds.
+instance: 822
+Elapsed time is 5275.221668 seconds.
+instance: 823
+Elapsed time is 5281.35799193 seconds.
+instance: 824
+Elapsed time is 5287.4438839 seconds.
+instance: 825
+Elapsed time is 5293.56684995 seconds.
+instance: 826
+Elapsed time is 5299.71837091 seconds.
+instance: 827
+Elapsed time is 5305.85206699 seconds.
+instance: 828
+Elapsed time is 5312.02152991 seconds.
+instance: 829
+Elapsed time is 5318.14735794 seconds.
+instance: 830
+Elapsed time is 5324.22267604 seconds.
+instance: 831
+Elapsed time is 5330.33422899 seconds.
+instance: 832
+Elapsed time is 5336.49962902 seconds.
+instance: 833
+Elapsed time is 5342.68257499 seconds.
+instance: 834
+Elapsed time is 5348.77627301 seconds.
+instance: 835
+Elapsed time is 5354.85776401 seconds.
+instance: 836
+Elapsed time is 5360.98417711 seconds.
+instance: 837
+Elapsed time is 5368.45569205 seconds.
+instance: 838
+Elapsed time is 5375.32381701 seconds.
+instance: 839
+Elapsed time is 5382.31811905 seconds.
+instance: 840
+Elapsed time is 5389.98674297 seconds.
+instance: 841
+Elapsed time is 5397.53716302 seconds.
+instance: 842
+Elapsed time is 5404.16350102 seconds.
+instance: 843
+Elapsed time is 5410.94412303 seconds.
+instance: 844
+Elapsed time is 5417.5719521 seconds.
+instance: 845
+Elapsed time is 5424.26074004 seconds.
+instance: 846
+Elapsed time is 5431.04558992 seconds.
+instance: 847
+Elapsed time is 5437.74250102 seconds.
+instance: 848
+Elapsed time is 5444.36292791 seconds.
+instance: 849
+Elapsed time is 5451.03032494 seconds.
+instance: 850
+Elapsed time is 5457.79785204 seconds.
+instance: 851
+Elapsed time is 5464.74006295 seconds.
+instance: 852
+Elapsed time is 5471.50043201 seconds.
+instance: 853
+Elapsed time is 5478.40362692 seconds.
+instance: 854
+Elapsed time is 5485.11390495 seconds.
+instance: 855
+Elapsed time is 5491.9162879 seconds.
+instance: 856
+Elapsed time is 5498.73989511 seconds.
+instance: 857
+Elapsed time is 5505.63879108 seconds.
+instance: 858
+Elapsed time is 5512.34431005 seconds.
+instance: 859
+Elapsed time is 5519.34759808 seconds.
+instance: 860
+Elapsed time is 5526.38309312 seconds.
+instance: 861
+Elapsed time is 5533.86290312 seconds.
+instance: 862
+Elapsed time is 5540.76286101 seconds.
+instance: 863
+Elapsed time is 5547.67892408 seconds.
+instance: 864
+Elapsed time is 5554.32792401 seconds.
+instance: 865
+Elapsed time is 5561.18202806 seconds.
+instance: 866
+Elapsed time is 5567.9690969 seconds.
+instance: 867
+Elapsed time is 5574.97564006 seconds.
+instance: 868
+Elapsed time is 5581.95986605 seconds.
+instance: 869
+Elapsed time is 5588.97435403 seconds.
+instance: 870
+Elapsed time is 5595.92563891 seconds.
+instance: 871
+Elapsed time is 5602.85294795 seconds.
+instance: 872
+Elapsed time is 5609.86963105 seconds.
+instance: 873
+Elapsed time is 5616.59321904 seconds.
+instance: 874
+Elapsed time is 5623.43556404 seconds.
+instance: 875
+Elapsed time is 5630.3027389 seconds.
+instance: 876
+Elapsed time is 5637.04237294 seconds.
+instance: 877
+Elapsed time is 5644.11230493 seconds.
+instance: 878
+Elapsed time is 5651.06616402 seconds.
+instance: 879
+Elapsed time is 5658.15261698 seconds.
+instance: 880
+Elapsed time is 5665.11925197 seconds.
+instance: 881
+Elapsed time is 5671.95902395 seconds.
+instance: 882
+Elapsed time is 5678.75899005 seconds.
+instance: 883
+Elapsed time is 5685.72263694 seconds.
+instance: 884
+Elapsed time is 5692.81467891 seconds.
+instance: 885
+Elapsed time is 5699.84173298 seconds.
+instance: 886
+Elapsed time is 5706.55192804 seconds.
+instance: 887
+Elapsed time is 5713.17125392 seconds.
+instance: 888
+Elapsed time is 5719.77750707 seconds.
+instance: 889
+Elapsed time is 5727.08224201 seconds.
+instance: 890
+Elapsed time is 5733.92757201 seconds.
+instance: 891
+Elapsed time is 5740.92904592 seconds.
+instance: 892
+Elapsed time is 5747.86816692 seconds.
+instance: 893
+Elapsed time is 5754.83213091 seconds.
+instance: 894
+Elapsed time is 5762.12650299 seconds.
+instance: 895
+Elapsed time is 5769.07891989 seconds.
+instance: 896
+Elapsed time is 5776.1586051 seconds.
+instance: 897
+Elapsed time is 5783.09352493 seconds.
+instance: 898
+Elapsed time is 5789.90141702 seconds.
+instance: 899
+Elapsed time is 5796.1784811 seconds.
+instance: 900
+Elapsed time is 5802.62234902 seconds.
+instance: 901
+Elapsed time is 5809.00931811 seconds.
+instance: 902
+Elapsed time is 5815.15161204 seconds.
+instance: 903
+Elapsed time is 5821.349015 seconds.
+instance: 904
+Elapsed time is 5827.49347806 seconds.
+instance: 905
+Elapsed time is 5833.63598609 seconds.
+instance: 906
+Elapsed time is 5839.80496907 seconds.
+instance: 907
+Elapsed time is 5845.96869206 seconds.
+instance: 908
+Elapsed time is 5852.13890195 seconds.
+instance: 909
+Elapsed time is 5858.29411793 seconds.
+instance: 910
+Elapsed time is 5864.474154 seconds.
+instance: 911
+Elapsed time is 5870.66487694 seconds.
+instance: 912
+Elapsed time is 5876.7878449 seconds.
+instance: 913
+Elapsed time is 5882.92534399 seconds.
+instance: 914
+Elapsed time is 5888.9919579 seconds.
+instance: 915
+Elapsed time is 5895.13066101 seconds.
+instance: 916
+Elapsed time is 5901.31004095 seconds.
+instance: 917
+Elapsed time is 5907.43904996 seconds.
+instance: 918
+Elapsed time is 5913.63986707 seconds.
+instance: 919
+Elapsed time is 5919.78873396 seconds.
+instance: 920
+Elapsed time is 5925.94794393 seconds.
+instance: 921
+Elapsed time is 5932.14359593 seconds.
+instance: 922
+Elapsed time is 5938.29658794 seconds.
+instance: 923
+Elapsed time is 5944.435045 seconds.
+instance: 924
+Elapsed time is 5950.60350704 seconds.
+instance: 925
+Elapsed time is 5956.72864103 seconds.
+instance: 926
+Elapsed time is 5962.86474204 seconds.
+instance: 927
+Elapsed time is 5969.03046799 seconds.
+instance: 928
+Elapsed time is 5975.23493004 seconds.
+instance: 929
+Elapsed time is 5981.37835789 seconds.
+instance: 930
+Elapsed time is 5987.45194006 seconds.
+instance: 931
+Elapsed time is 5993.62329006 seconds.
+instance: 932
+Elapsed time is 5999.7702179 seconds.
+instance: 933
+Elapsed time is 6005.88738394 seconds.
+instance: 934
+Elapsed time is 6012.07920694 seconds.
+instance: 935
+Elapsed time is 6018.21883106 seconds.
+instance: 936
+Elapsed time is 6024.29603195 seconds.
+instance: 937
+Elapsed time is 6030.46273899 seconds.
+instance: 938
+Elapsed time is 6036.64978909 seconds.
+instance: 939
+Elapsed time is 6042.80360794 seconds.
+instance: 940
+Elapsed time is 6048.96624589 seconds.
+instance: 941
+Elapsed time is 6055.13885903 seconds.
+instance: 942
+Elapsed time is 6061.21926999 seconds.
+instance: 943
+Elapsed time is 6067.39298201 seconds.
+instance: 944
+Elapsed time is 6073.55111599 seconds.
+instance: 945
+Elapsed time is 6079.70472407 seconds.
+instance: 946
+Elapsed time is 6085.83947706 seconds.
+instance: 947
+Elapsed time is 6092.00751901 seconds.
+instance: 948
+Elapsed time is 6098.15217495 seconds.
+instance: 949
+Elapsed time is 6104.28830504 seconds.
+instance: 950
+Elapsed time is 6110.51641297 seconds.
+instance: 951
+Elapsed time is 6116.69622302 seconds.
+instance: 952
+Elapsed time is 6122.827492 seconds.
+instance: 953
+Elapsed time is 6129.05586696 seconds.
+instance: 954
+Elapsed time is 6135.21049905 seconds.
+instance: 955
+Elapsed time is 6141.43673611 seconds.
+instance: 956
+Elapsed time is 6147.65852594 seconds.
+instance: 957
+Elapsed time is 6153.8369751 seconds.
+instance: 958
+Elapsed time is 6159.98650503 seconds.
+instance: 959
+Elapsed time is 6166.11944199 seconds.
+instance: 960
+Elapsed time is 6172.26202106 seconds.
+instance: 961
+Elapsed time is 6178.41878891 seconds.
+instance: 962
+Elapsed time is 6184.57943702 seconds.
+instance: 963
+Elapsed time is 6190.74508905 seconds.
+instance: 964
+Elapsed time is 6196.907619 seconds.
+instance: 965
+Elapsed time is 6203.12349701 seconds.
+instance: 966
+Elapsed time is 6209.2942369 seconds.
+instance: 967
+Elapsed time is 6215.4427681 seconds.
+instance: 968
+Elapsed time is 6221.60775709 seconds.
+instance: 969
+Elapsed time is 6227.77113104 seconds.
+instance: 970
+Elapsed time is 6233.95674109 seconds.
+instance: 971
+Elapsed time is 6240.09413695 seconds.
+instance: 972
+Elapsed time is 6246.24248505 seconds.
+instance: 973
+Elapsed time is 6252.38785911 seconds.
+instance: 974
+Elapsed time is 6258.56226897 seconds.
+instance: 975
+Elapsed time is 6264.76245189 seconds.
+instance: 976
+Elapsed time is 6270.9418819 seconds.
+instance: 977
+Elapsed time is 6277.11096692 seconds.
+instance: 978
+Elapsed time is 6283.20373011 seconds.
+instance: 979
+Elapsed time is 6289.40418196 seconds.
+instance: 980
+Elapsed time is 6295.57372212 seconds.
+instance: 981
+Elapsed time is 6301.72582698 seconds.
+instance: 982
+Elapsed time is 6307.89917302 seconds.
+instance: 983
+Elapsed time is 6314.07093906 seconds.
+instance: 984
+Elapsed time is 6320.13376904 seconds.
+instance: 985
+Elapsed time is 6326.29608703 seconds.
+instance: 986
+Elapsed time is 6332.47972798 seconds.
+instance: 987
+Elapsed time is 6338.67422104 seconds.
+instance: 988
+Elapsed time is 6344.83639503 seconds.
+instance: 989
+Elapsed time is 6350.99351811 seconds.
+instance: 990
+Elapsed time is 6357.19190812 seconds.
+instance: 991
+Elapsed time is 6363.33849096 seconds.
+instance: 992
+Elapsed time is 6369.49696493 seconds.
+instance: 993
+Elapsed time is 6375.61468005 seconds.
+instance: 994
+Elapsed time is 6381.78175306 seconds.
+instance: 995
+Elapsed time is 6387.88504505 seconds.
+instance: 996
+Elapsed time is 6394.08411002 seconds.
+instance: 997
+Elapsed time is 6400.23348689 seconds.
+instance: 998
+Elapsed time is 6406.42449689 seconds.
+instance: 999
+Elapsed time is 6412.59345794 seconds.
+[[  90.    0.    0.    0.    0.    0.    0.    0.    0.    0.]
+ [   0.  108.    0.    0.    0.    0.    0.    0.    0.    0.]
+ [   1.    5.   92.    1.    0.    0.    1.    2.    1.    0.]
+ [   0.    1.    0.   90.    0.    3.    1.    4.    1.    0.]
+ [   0.    2.    0.    0.   95.    0.    2.    0.    0.    8.]
+ [   2.    1.    0.    5.    0.   77.    4.    1.    0.    2.]
+ [   0.    1.    0.    0.    1.    1.   88.    0.    0.    0.]
+ [   1.   10.    0.    0.    1.    0.    0.   88.    0.    6.]
+ [   2.    3.    0.    8.    3.    2.    0.    2.   80.    3.]
+ [   1.    0.    0.    5.    2.    1.    0.    2.    0.   89.]]
+Digit 0 accuracy: 1.0
+Digit 1 accuracy: 1.0
+Digit 2 accuracy: 0.893203883495
+Digit 3 accuracy: 0.9
+Digit 4 accuracy: 0.88785046729
+Digit 5 accuracy: 0.836956521739
+Digit 6 accuracy: 0.967032967033
+Digit 7 accuracy: 0.830188679245
+Digit 8 accuracy: 0.776699029126
+Digit 9 accuracy: 0.89
+Overall accuracy: 0.897
+Elapsed time is 6412.59965301 seconds.
+
+Process finished with exit code 0
