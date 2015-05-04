@@ -203,5 +203,5 @@ def classify(epoch=150, bias=False, randomize=False):
 
     
 tic()
-classify(epoch=75, bias=True, randomize=False)
+classify(epoch=50, bias=False, randomize=False)
 toc()

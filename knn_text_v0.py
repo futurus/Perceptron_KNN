@@ -187,5 +187,5 @@ def knnClassify(k=10):
 
 
 tic()
-knnClassify(k=7)
+knnClassify(k=12)
 toc()
